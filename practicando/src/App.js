@@ -1,5 +1,5 @@
 import planetaTierra from './assets/planetaTierra.jpg' ;
-import videoNave from './assets/videoNave.mp4';
+// import videoNave from './assets/videoNave.mp4';
 import './App.css';
 
 function App() {
@@ -14,9 +14,11 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <video src={videoNave} type="video/mp4"  className="video" ></video> 
+
+<p>Comenzar⭐</p>
         </a>
       </header>
+    
     </div>
   );
 }
