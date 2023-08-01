@@ -14,7 +14,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <video src={videoNave} className="video"></video> 
+          <video src={videoNave} type="video/mp4"  className="video" ></video> 
         </a>
       </header>
     </div>
